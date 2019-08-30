@@ -1,6 +1,6 @@
 //extract the airy scan image from .czi file
 
-macro "toxoDonut"{
+macro "self"{
 //{
 //only 488 channel is imaged here
 dir= getDirectory("image");//get the directory of current active image
